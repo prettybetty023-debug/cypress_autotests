@@ -26,7 +26,7 @@
 ![image](https://github.com/prettybetty023-debug/cypress_autotests/blob/main/2026-08-11_16-55-49.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://github.com/prettybetty023-debug/cypress_autotests/blob/main/2026-08-11_17-02-44.png)
+![image](https://github.com/prettybetty023-debug/cypress_autotests/blob/main/2026-08-11_16-56-45.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
@@ -45,7 +45,7 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 3. В терминале в папке с проектом запустить npm `install --save-dev cypress@12.7.0`
 4. В терминале в папке с проектом запустить npm `npm i`
 5. В терминале в папке с проектом запустить npm `npx cypress open`
-6. Выбрать в Cypress UI E2E тестирование и браузер Google Chrome
+6. Выбрать в Cypress UI E2E тестирование и браузер 
 7. Выбрать спеку lesson_locators
 
 Ожидаемый результат: получим отчет о прохождении тестов.
