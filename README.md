@@ -1,5 +1,3 @@
-# cypress_autotests
-Автотесты на UI с помощью JS + Cypress
 <h2>UI Автотесты на фреймворке Cypress</h2>
 
 > **Статус проекта:**
@@ -56,4 +54,4 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Елизавета Познышева ([@dolnikov](https://t.me/dolnikov))
